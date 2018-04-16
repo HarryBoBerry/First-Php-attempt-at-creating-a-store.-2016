@@ -1,0 +1,42 @@
+Date: 2017-10-04
+Start: 11:50 am ---- part 1 -----
+End: 12:50 pm ----- part 1 -----
+
+Harry Almarez
+Andrew Springer
+Felipe Casias
+Veronica Padilla
+
+length: 2 weeks
+deadline: 2017-10-20
+
+Harry Almarez - 13 hours
+Andrew Springer - 11 hours
+Felipe Casias - 11 hours
+Veronica Padilla - 13 hours
+
+total hours: 48
+---------- rest for part 2 -----------
+
+Date: 2017-10-05
+Start: 10:30 am ---- part 2 ----
+End: 1:00 pm ---- part 2 ----
+
+Harry Almarez
+Andrew Springer
+Felipe Casias
+Veronica Padilla
+
+Total Capacity: 48 hours
+
+Next Meeting: 2017-10-10
+Type: Scrum
+Time: 10:20 am
+
+The information in this sprint-plan directory is accurate, 
+to the best of my knowledge.
+
+Harry Almarez
+Andrew Springer
+Felipe Casias
+Veronica Padilla

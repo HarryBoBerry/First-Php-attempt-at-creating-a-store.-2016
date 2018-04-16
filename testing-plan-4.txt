@@ -1,0 +1,17 @@
+HTML5
+     -The Code must validate through the site known as https://validator.nu/
+     -The Code must be reviewed by an actual person, and pass all test.
+
+Bootstrap & CSS3 
+     -The Code must validate through 
+            http://jigsaw.w3.org/css-validator/#validate_by_input+with_options
+     -The Code has been reviewed in person and passes all test and/or runs when compiled
+
+PHP  
+    -The Code must validate through -> https://phpcodechecker.com/
+    -The Code must also pass as a PHP unit test -> https://phpunit.de/
+    -The Code must be reviewed by an actual person and pass all test.
+
+JavaScript
+    The Code must validate through http://www.jslint.com/
+    The Code must be reviewed by an actual person and pass all test.
